@@ -1,0 +1,3 @@
+module github.com/tsklabs/tdk
+
+cue v0.4.0
